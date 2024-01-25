@@ -10,6 +10,12 @@
       <change afterPath="$PROJECT_DIR$/../wondr_medical/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wondr_medical/test/http-client.env.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizz_buzz.rb" beforeDir="false" afterPath="$PROJECT_DIR$/String/Easy/fizz_buzz.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sorted_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/merge_sorted_array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus_one.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/plus_one.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remove_duplicates_sorted_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/remove_duplicates_sorted_array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remove_element.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/remove_element.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_insert_position.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/search_insert_position.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wondr_medical/.env.example" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wondr_medical/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wondr_medical/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wondr_medical/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wondr_medical/.idea/modules.xml" afterDir="false" />
@@ -61,6 +67,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/String/Easy" />
+      <recent name="$PROJECT_DIR$/array/easy" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
@@ -75,7 +87,7 @@
       <workItem from="1704983882794" duration="1802000" />
       <workItem from="1705091558028" duration="1780000" />
       <workItem from="1705333321925" duration="2653000" />
-      <workItem from="1705588509173" duration="3803000" />
+      <workItem from="1705588509173" duration="7852000" />
     </task>
     <servers />
   </component>

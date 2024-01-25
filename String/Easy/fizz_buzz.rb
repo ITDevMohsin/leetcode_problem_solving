@@ -1,5 +1,7 @@
 # Problem: https://leetcode.com/problems/fizz-buzz/
 #
+# Topics: Math, String, Simulation
+#
 # Given an integer n, return a string array answer (1-indexed) where:
 #
 # answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
@@ -37,4 +39,3 @@ def fizz_buzz(n)
   end
   result
 end
-
