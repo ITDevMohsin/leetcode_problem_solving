@@ -9,6 +9,12 @@
       <change afterPath="$PROJECT_DIR$/../wondr_medical/.idea/codestream.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wondr_medical/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wondr_medical/test/http-client.env.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Easy/merge_sorted_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/merge_sorted_array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Easy/plus_one.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/plus_one.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Easy/remove_duplicates_sorted_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/remove_duplicates_sorted_array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Easy/remove_element.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/remove_element.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Easy/search_insert_position.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/search_insert_position.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Easy/two_sum.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/two_sum.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/String/Easy/fizz_buzz.rb" beforeDir="false" afterPath="$PROJECT_DIR$/String/Easy/fizz_buzz.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wondr_medical/.env.example" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wondr_medical/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wondr_medical/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -81,7 +87,7 @@
       <workItem from="1704983882794" duration="1802000" />
       <workItem from="1705091558028" duration="1780000" />
       <workItem from="1705333321925" duration="2653000" />
-      <workItem from="1705588509173" duration="8912000" />
+      <workItem from="1705588509173" duration="9303000" />
     </task>
     <servers />
   </component>
