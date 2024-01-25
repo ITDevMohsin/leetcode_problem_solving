@@ -18,7 +18,7 @@
 #
 # Input: n = 5
 # Output: ["1","2","Fizz","4","Buzz"]
-# 
+#
 # Example 3:
 #
 # Input: n = 15
