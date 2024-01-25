@@ -1,2 +1,2 @@
-# leetcode_problem_solving
+# Leetcode Problem Solving
 Solving Leetcode Problems
